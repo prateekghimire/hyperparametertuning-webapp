@@ -74,7 +74,7 @@ This app helps in hyperparameter tuning for **Random Forest Regressor**.
 
 Please upload a clean dataset with last column as target value.
 
-Created by *Pratik Ghimire* with Python.
+Developed by *PG* with Python.
 
 """)
 
